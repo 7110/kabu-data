@@ -59,14 +59,14 @@ file name is `./src/YYYYMM.xls`
 
 ```javascript
 {
-  "markets": {
-    "index": name
+  markets: {
+    index: name
   },
-  "industry17": {
-    "code17": section17
+  industry17: {
+    code17: section17
   },
-  "industry33": {
-    "code33": section33
+  industry33: {
+    code33: section33
   }
 }
 ```
