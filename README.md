@@ -33,16 +33,16 @@ file name is `./src/YYYYMM.xls`
 
 ### main.json
 
-```json
+```javascript
 [
   {
-    "c": code,
-    "n": name,
-    "m": marke,
-    "i17": industry17,
-    "i33": industry33
+    c: code,
+    n: name,
+    m: marke,
+    i17: industry17,
+    i33: industry33
   }
-]
+];
 ```
 
 - `c`: stock code
@@ -57,7 +57,7 @@ file name is `./src/YYYYMM.xls`
 
 ### manual.json
 
-```json
+```javascript
 {
   "markets": {
     "index": name
